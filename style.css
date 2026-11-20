@@ -121,7 +121,7 @@ select.form-select {
 }
 
 .hero-section {
-    background-image: linear-gradient(rgba(11, 13, 23, 0.85), rgba(11, 13, 23, 0.92)), url("C:/Users/dell/Desktop/route/5th ass/hero-bg.jpg");
+    background-image: linear-gradient(rgba(11, 13, 23, 0.85), rgba(11, 13, 23, 0.92)), url("hero-bg.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
